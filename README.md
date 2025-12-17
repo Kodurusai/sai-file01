@@ -1,2 +1,3 @@
 # sai-file01
-sample file
+in liux everything runs as a process.
+where in windows everything run as service.
